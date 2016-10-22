@@ -1,0 +1,64 @@
+*
+{
+	padding: 0px;
+	border:0px;
+	margin: 0px;
+}
+body
+{
+	width: 100%;
+	background: #919191 url('images/bg1.jpg') no-repeat scroll left top;
+	font-family: "Times New Roman", Georgia, Serif
+
+}
+.container
+{
+	width: 100%;
+	float: left;
+}
+
+.enter
+{
+	margin-top: 300px;
+	float: left;
+	border=border-left: 0px;
+
+}
+.copyrights
+{
+	float: left;
+	margin-right: 100px;
+	height: 101px;
+	padding-bottom: 0px;
+	
+	height: 19px;
+	display: inline-flex;
+
+}
+.copyrights p
+{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	width: 500px;
+}
+.copyrights img
+{
+	margin-left: 0px;
+
+}
+
+
+.enterstrip
+{
+	height:60px;
+	width: 620px;
+
+	margin-top: 100px;
+	color: white;
+	background-color: black;
+}
+
+.enterstrip h3
+{
+	padding-left: 240px;
+}
